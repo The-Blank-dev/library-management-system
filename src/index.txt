@@ -1,0 +1,2 @@
+../Library/frankenstein.txt	Frankenstein	Mary Wollstonecraft 	novel	
+../Library/romeo-julliet.txt	Romeo and Juliet	William Shakespeare	play	
